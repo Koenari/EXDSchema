@@ -2,7 +2,7 @@ name: TerritoryIntendedUse
 fields:
   - name: Unknown0
   - name: Unknown1
-  - name: Unknown2
+  - name: RepairAllowed
   - name: Unknown3
   - name: Unknown4
   - name: Unknown5
